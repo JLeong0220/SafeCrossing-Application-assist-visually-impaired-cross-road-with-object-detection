@@ -1,6 +1,6 @@
 # SafeCrossing: PEDESTRIAN CROSSING ASSISTANT APP FOR VISUALLY IMPAIRED
 
-
+This application using TensorFlow to train the object detection model. It detect the pedestrian crossing and incoming traffic. Besides, using sensor to guilding the user to a right direction.
 
 
 
