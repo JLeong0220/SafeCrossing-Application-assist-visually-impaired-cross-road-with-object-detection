@@ -1,4 +1,4 @@
-###SafeCrossing: PEDESTRIAN CROSSING ASSISTANT APP FOR VISUALLY IMPAIRED
+# SafeCrossing: PEDESTRIAN CROSSING ASSISTANT APP FOR VISUALLY IMPAIRED
 
 
 
@@ -8,5 +8,5 @@ This application is refer to https://github.com/tensorflow/examples/tree/master/
 
 Tensorflow lite example apps
 
-Education Purpose
+# Education Purpose
 
