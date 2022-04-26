@@ -1,0 +1,4 @@
+pedestrian crossing
+pedestrian bridge
+car
+motor
