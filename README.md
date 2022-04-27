@@ -8,6 +8,8 @@ This application using TensorFlow to train the object detection model. It detect
 
 
 
+
+
 This application is refer to https://github.com/tensorflow/examples/tree/master/lite/examples/object_detection/android
 
 Tensorflow lite example apps
